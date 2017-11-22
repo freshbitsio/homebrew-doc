@@ -1,7 +1,7 @@
 Homebrew DOC
 ============
 
-doc research publications and citations helper
+The doc research package manager.
 
 ## Requirements
 
