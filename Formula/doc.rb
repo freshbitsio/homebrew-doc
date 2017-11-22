@@ -1,4 +1,4 @@
-class doc < Formula
+class Doc < Formula
   desc "The research package manager"
   homepage "https://github.com/freshbitsio/doc"
   url "https://github.com/TheHipbot/weather/raw/master/archive/weather-1.0.0.tar.gz"
