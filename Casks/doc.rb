@@ -6,6 +6,6 @@ cask 'doc' do
   name 'doc'
   homepage 'https://github.com/freshbitsio/homebrew-doc'
 
-  binary '/usr/local/bin/doc'
+  binary 'doc'
 end
 
